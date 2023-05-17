@@ -1,5 +1,5 @@
 # Project Showcase
-Showcase of various projects that have been created during TuringCollege learning process.
+Showcase of various projects that have been created during TuringCollege learning process 2022 - 2023.
 
 The showcase can be accessed by attached ppt in the respitory or alternatively using following link that leads to Google Docs from where it´s possible to view online.
 
